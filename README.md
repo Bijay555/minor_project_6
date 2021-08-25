@@ -23,14 +23,9 @@ TF-IDF stands for “Term Frequency — Inverse Document Frequency”. This is a
 │   README.md
 │
 ├───src
-│   │   cosine_similarity.py
-│   │   text_recommendation.py
-│   │   tfidf.py
-│   │
-│   └───__pycache__
-│           cosine_similarity.cpython-38.pyc
-│           text_recommendation.cpython-38.pyc
-│           tfidf.cpython-38.pyc
+│       cosine_similarity.py
+│       text_recommendation.py
+│       tfidf.py
 │
 └───txt_dataset
         book_title.csv
